@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LagJavaDevs</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_arrange">Arrange</string>
+    <string name="action_search">Search</string>
+    <string name="action_share">Share</string>
+</resources>
